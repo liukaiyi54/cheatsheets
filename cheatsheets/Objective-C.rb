@@ -266,8 +266,8 @@ cheatsheet do
         name 'NSString'
         notes <<-'END'
         <pre class="highlight objective_c">
-        <span class="ni">NSString</span> *personOne = <span class="gt">@"Ray"</span>;
-        <span class="ni">NSString</span> *personTwo = <span class="gt">@"Shawn"</span>;
+        <span class="ni">NSString</span> *personOne = <span class="gt">@"Michael"</span>;
+        <span class="ni">NSString</span> *personTwo = <span class="gt">@"Michel"</span>;
         <span class="ni">NSString</span> *combinedString = [<span class="ni">NSString</span> <span class="nt">stringWithFormat</span>:<span class="gt">@"%@: Hello, %@!"</span>, personOne, personTwo];
         <span class="ni">NSLog</span>(<span class="gt">@"%@"</span>, combinedString);
         <span class="ni">NSString</span> *tipString = <span class="gt">@"24.99"</span>;
